@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1038763105029",
+    "project_id": "prueba-conexion-app",
+    "storage_bucket": "prueba-conexion-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038763105029:android:76c9e610618a9c1eeb756c",
+        "android_client_info": {
+          "package_name": "com.example.arbol_red"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzvm2dRF9YTPG2Z2CYD2dCt4bZmvKAmWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

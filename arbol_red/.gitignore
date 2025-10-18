@@ -1,0 +1,10 @@
+# Flutter/Dart/Pub
+.dart_tool/
+.packages
+.pub-cache/
+build/
+.idea/
+.android/
+.ios/
+*.iml
+*.log
